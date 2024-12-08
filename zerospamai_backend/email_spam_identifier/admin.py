@@ -1,3 +1,9 @@
 from django.contrib import admin
+from .models import EmailSpamModel
 
-# Register your models here.
+
+@admin.register(EmailSpamModel)
+class EmailSpamAdmin(admin.ModelAdmin):
+    list_display=('UserMessage', 'SpamProbability', 'NotSpamProbability', 'ModelPrediction', 'Category',)
+    
+
