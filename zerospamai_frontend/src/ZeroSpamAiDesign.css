@@ -133,6 +133,7 @@
     background: rgba(17,24,34,.5);
 	padding: 30px 20px;
     margin-top: 30px;
+    margin-bottom: 50px;
 }
 
 .eamil-result h1{
@@ -164,29 +165,22 @@
 }
 
 
-/* @media screen and (max-width: 988px)
+@media screen and (max-width: 800px)
 {
+    .herosection{
+        width: 80%;
+    }
+
 	.form-continer
 	{
-		width: 350px;
-		height: 480px;
+		width: 80%;
 	}
+
+    .eamil-result{
+        width: 80%;
+    }
+
+    .eamil-result p{
+        margin: 40px 0px 30px 0px;
+    }
 }
-@media screen and (max-width: 640px)
-{
-	.form-continer
-	{
-		width: 350px;
-		height: 480px;
-		right: 10px;
-	}
-}
-@media screen and (max-width: 320px)
-{
-	.form-continer
-	{
-		width: 320px;
-		height: 480px;
-		right: 10px;
-	}
-} */
