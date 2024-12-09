@@ -32,8 +32,8 @@ def SpamPredict(req):
             model_prediction=MultinomialNB_model.predict(encoaded_data)
             model_probability=MultinomialNB_model.predict_proba(encoaded_data)
 
-            Spam_Percentage=round(model_probability[0][0]*100,2)
-            NotSpam_Percentage=round(model_probability[0][1]*100,2)
+            Spam_Percentage=round(model_probability[0][1]*100,2)
+            NotSpam_Percentage=round(model_probability[0][0]*100,2)
 
             Category="Spam" if model_prediction[0]==1 else "NotSpam"
 

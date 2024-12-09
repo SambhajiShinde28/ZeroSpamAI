@@ -1,9 +1,10 @@
 import React from "react";
+import ZeroSpamAi from "./ZeroSpamAi.jsx"
 
 function App() {
   return (
     <>
-      <h1>Hello</h1>
+      <ZeroSpamAi></ZeroSpamAi>
     </>
   );
 }

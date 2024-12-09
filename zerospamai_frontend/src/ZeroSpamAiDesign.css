@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Roboto Flex", sans-serif;
+}
+
+.main-container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    overflow-y: scroll;
+	background: linear-gradient(45deg,#2657eb,#de6161);
+}
+
+.header{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 60px 80px;
+}
+
+.header h1{
+    font-size: 32px;
+    font-weight: bold;
+    color: #fff;
+    cursor: default;
+}
+
+.continer{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.herosection{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    width: 60%;
+}
+
+.herosection h2{
+    font-size: 28px;
+    cursor: default;
+    color: #7895ec;
+    padding: 20px 0px 20px 10px;
+}
+
+.herosection h3{
+    font-size: 16px;
+    cursor: default;
+    color: #f0a8a8;
+    line-height: 30px;
+    padding: 10px 0px 30px 10px;
+}
+
+
+
+.form-continer
+{
+	width: 60%;
+	border-radius: 5px;
+}
+
+.fold
+{
+	width: 100%;
+	background: rgba(17,24,34,.5);
+	padding: 30px 20px;
+    border-radius: 20px;
+}
+
+.fold h1{
+    font-size: 24px;
+    color: #7895ec;
+    cursor: default;
+    margin: 20px 0px 40px 0px;
+    text-align: center;
+}
+
+.fold .inputTextarea
+{
+	width: 100%;
+	margin-bottom: 20px;
+	padding: 15px 15px;
+	box-sizing: border-box;
+	border-radius: 10px;
+	box-shadow: none;
+	outline: none;
+	color: #fff;
+	background: transparent;
+	border: 1px solid #fff;
+}
+
+::placeholder
+{
+	color: #fff;
+}
+
+.fold input[type="submit"]
+{
+	display: block;
+	padding: 12px 40px;
+	border-radius: 40px;
+	box-shadow: none;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	background: rgba(17,24,34,.3);
+	color: #fff;
+	box-shadow: 0 5px 10px rgba(0,0,0,.5);
+}
+
+.fold input[type="submit"]:hover
+{
+	background: linear-gradient(45deg,#2657eb,#de6161);
+}
+
+
+.eamil-result{
+    width: 60%;
+	border-radius: 20px;
+    background: rgba(17,24,34,.5);
+	padding: 30px 20px;
+    margin-top: 30px;
+}
+
+.eamil-result h1{
+    font-size: 24px;
+    color: #7895ec;
+    cursor: default;
+}
+
+.eamil-result p{
+    font-size: 16px;
+    color: #f0a8a8;
+    cursor: default;
+    margin: 40px 0px 50px 0px;
+}
+
+.result-chart{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    height: auto;
+}
+
+.SpamPercentage, .NotSpamPercentage{
+    font-size: 16px;
+    color: #f0a8a8;
+    cursor: default;
+    margin: 20px 0px 30px 0px;
+}
+
+
+/* @media screen and (max-width: 988px)
+{
+	.form-continer
+	{
+		width: 350px;
+		height: 480px;
+	}
+}
+@media screen and (max-width: 640px)
+{
+	.form-continer
+	{
+		width: 350px;
+		height: 480px;
+		right: 10px;
+	}
+}
+@media screen and (max-width: 320px)
+{
+	.form-continer
+	{
+		width: 320px;
+		height: 480px;
+		right: 10px;
+	}
+} */

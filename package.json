@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@mui/x-charts": "^7.23.1",
+    "axios": "^1.7.9",
+    "chart.js": "^4.4.7",
+    "react-chartjs-2": "^5.2.0",
+    "recharts": "^2.14.1"
+  }
+}
