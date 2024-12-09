@@ -19,27 +19,32 @@ This project aims to provide an easy-to-use system that can detect unwanted emai
 ## 📊 Screenshots and Demo Video
  ### **Screenshots**
 
- <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1OsSXvVPgOyoze7DjBwTVrYRstNyEow6e" alt="img" width="310" style="margin: 5px;">
-  <img src="https://drive.google.com/uc?export=view&id=1f0j5b_PGQU6NGO0xhC1iqsMCamNlW_J9" alt="img" width="310" style="margin: 5px;">
-  <img src="https://drive.google.com/uc?export=view&id=19ctSdyR5BfHi1PGPXlUf_NjWhOfqirIb" alt="img" width="310" style="margin: 5px;">
-</p>
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1Zvgm_G0sCL7HRFOeY4mmRA0SW_g_RZ7z" alt="img" width="310" style="margin: 5px;">
-  <img src="https://drive.google.com/uc?export=view&id=1QOS0WZk0U1qLLa_Tnbp5hMVB78hG707q" alt="img" width="310" style="margin: 5px;">
-  <img src="https://drive.google.com/uc?export=view&id=1aczPDJcTECK7LBiC6omF8Feiw74uV79h" alt="img" width="310" style="margin: 5px;">
+  <img src="https://drive.google.com/uc?export=view&id=11BzbepXBSGG8bAhaRxf-aKSskHqz_I75" alt="img" width="310" style="margin: 5px;">
+  <img src="https://drive.google.com/uc?export=view&id=1nLNypCZk7C83pg3Lpg47a2nkvfasgnHU" alt="img" width="310" style="margin: 5px;">
+  <img src="https://drive.google.com/uc?export=view&id=1c8o5_-SF5BVmc0sHRL6byUdGVpuBj88P" alt="img" width="160" style="margin: 5px;">
 </p>
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1ArvTiFPyYUHOELXvadZ89GKx6ngFrY1X" alt="img" width="310" style="margin: 5px;">
-  <img src="https://drive.google.com/uc?export=view&id=1vKJa5iJfe7Tv5EYOxFzYg5sziVWrQCZg" alt="img" width="310" style="margin: 5px;">
-  <img src="https://drive.google.com/uc?export=view&id=1yDCbwUqs9GkW8cYvPNYleKELplRoVCqu" alt="img" width="310" style="margin: 5px;">
+  <img src="https://drive.google.com/uc?export=view&id=1zcAtKWXy1Uc3kPkw1C1DmPqKzMFJTfNl" alt="img" width="310" style="margin: 5px;">
+  <img src="https://drive.google.com/uc?export=view&id=1EragUXTMt3EvtHUQ6o6NFrbT_hJEFJeB" alt="img" width="310" style="margin: 5px;">
+  <img src="https://drive.google.com/uc?export=view&id=1QI2Ji02CsIucGOPe7lsu9gSGSFeRdnFF" alt="img" width="160" style="margin: 5px;">
 </p>
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1D-3tTB8U6aaV9yetwAJp9EEIR5u8ZKAP" alt="img" width="310" style="margin: 5px;">
-  <img src="https://drive.google.com/uc?export=view&id=1HJ3IuK3UbVHna8pZmhQ8NaA5rHA01DgN" alt="img" width="310" style="margin: 5px;">
-  <img src="https://drive.google.com/uc?export=view&id=1NdgKAKypjXqjWNCfmwRL2xZL3jbCYj3-" alt="img" width="310" style="margin: 5px;">
+  <img src="https://drive.google.com/uc?export=view&id=1V9tn-6vKAEC4zvM9G0CLeKo0soa5d5-g" alt="img" width="310" style="margin: 5px;">
+  <img src="https://drive.google.com/uc?export=view&id=1mVjfVYCGOjeIHUwpsc86rL18x7aP0X50" alt="img" width="310" style="margin: 5px;">
+  <img src="https://drive.google.com/uc?export=view&id=1657WdbHQcSD0-KEhsZusb2vtGOHEuK1a" alt="img" width="310" style="margin: 5px;">
+</p>
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1fX4e65lJRQaTzb_TN2sTYX9zOHnFjRTH" alt="img" width="310" style="margin: 5px;">
+  <img src="https://drive.google.com/uc?export=view&id=1LMYtm-MsMVr2zJbLQzsrG7TsVYSp8Dat" alt="img" width="310" style="margin: 5px;">
+  <img src="https://drive.google.com/uc?export=view&id=1cpd5_N3BOMQbZi86voo8pzHvbxUWyw0P" alt="img" width="310" style="margin: 5px;">
+</p>
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1LmDWMzdZS_EJ6TDXgAW0yW4BpyOuTuqZ" alt="img" width="310" style="margin: 5px;">
 </p>
 
  ### **Video**
@@ -47,7 +52,7 @@ This project aims to provide an easy-to-use system that can detect unwanted emai
 
 Click the image below to watch the project video
 
-[![Watch the video](https://drive.google.com/uc?export=view&id=1OsSXvVPgOyoze7DjBwTVrYRstNyEow6e)](https://drive.google.com/file/d/1DpSO7NAinG6VnZh8bA4P7WXUDNy5UxdC/view?usp=drive_link)
+[![Watch the video](https://drive.google.com/uc?export=view&id=11BzbepXBSGG8bAhaRxf-aKSskHqz_I75)](https://drive.google.com/file/d/1ogBxu9EQsf8ZXFuQ0SmHYSM4n5LH30Gc/view?usp=drive_link)
 
 
 ---
